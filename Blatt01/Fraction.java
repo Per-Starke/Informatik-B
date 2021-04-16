@@ -19,7 +19,7 @@ public class Fraction {
      * Initialisiert einen gekürzten Bruch. Wird nur eine Zahl gegeben, so wird diese als Zähler zum Nenner 1 gesetzt.
      * 
      * @param numerator Zähler des Bruches
-     * @param numerator Nenner des Bruches
+     * @param denumerator Nenner des Bruches
      */
     public Fraction(int numerator, int denominator) {
 
